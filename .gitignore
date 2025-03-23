@@ -1,0 +1,11 @@
+# ignore amibian version file
+**/amibian_version
+
+# ignore amibian configuration file
+**/amibian.configuration
+
+# ignore user created launchers
+**/launchers/**
+
+# ignore emulator configuration files
+*.uae
