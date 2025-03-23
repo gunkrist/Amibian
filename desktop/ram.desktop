@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RAM
+Comment=Access the RAM Disk
+Exec=/home/amibian/Amibian/shells/ram_disk.sh %F
+Icon=/home/amibian/Amibian/graphics/misc_icons/RAM_disk_2.png
+Terminal=false

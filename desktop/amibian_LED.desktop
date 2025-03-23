@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/Amibian/Amibian/shells/Amibian_LED_Starter.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Amibian keyboard leds
+Comment=Start the Keybord LED scripts after X is loaded
+StartupNotify=false
+Terminal=false
+Hidden=false
