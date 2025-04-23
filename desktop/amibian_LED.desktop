@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/Amibian/Amibian/shells/Amibian_LED_Starter.sh
+Exec=/home/amibian/Amibian/shells/Amibian_LED_Starter.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
